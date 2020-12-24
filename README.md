@@ -86,3 +86,8 @@ https://course.fast.ai/
 
 - Homepage
   - [Homepage](https://huggingface.co/)
+  
+ 
+## Ethics of AI
+
+https://ethics-of-ai.mooc.fi/
